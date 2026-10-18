@@ -1,0 +1,11 @@
+<svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            >
+              <path d="M6 3v8a3 3 0 0 0 6 0V3" />
+              <path d="M9 11v10" />
+              <path d="M17 3c-1.7 1.5-2.5 3.4-2.5 5.5S15.3 12.5 17 14v7" />
+</svg>
